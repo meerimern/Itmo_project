@@ -29,6 +29,9 @@
 #     print("Отрицательное число")
 
 # num = -1
+
+
+
 # permit_print = True
 #
 # if num > 0 and permit_print:
