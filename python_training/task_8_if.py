@@ -28,4 +28,17 @@
 # else:
 #     print("Отрицательное число")
 
+# num = -1
+# permit_print = True
+#
+# if num > 0 and permit_print:
+#     print("num + - положительное число")
+# elif not permit_print:
+#     print('Печать запрещена')
 
+num = -1
+
+if -100 > num > 100:
+    print("-")
+else:
+    print("+")
